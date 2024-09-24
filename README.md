@@ -6,4 +6,4 @@ Cursando Técnico em Informática para Internet no **SESI SENAI - Rinaldo Campos
 - **Versionamento:** Git e Github
 - **Banco de Dados:** PostgreSQL
 
-![logoJS](logos\js.png)
+![logoJS](logos/js.png)
