@@ -3,6 +3,8 @@
 Cursando Técnico em Informática para Internet no **SESI SENAI - Rinaldo Campos Soares**.  
 Possuo outra qualificação, Técnico em Informática, realizado no **Senac Minas**.
 
+<hr>
+
 Possuo conhecimento básico das seguintes ferramentas:
 
 - **Linguagens:** C#, Javascript e Python
@@ -14,13 +16,13 @@ Possuo conhecimento básico das seguintes ferramentas:
 
 Desejo colocar em prática e aperfeiçoar o uso destas no **Desenvolvimento Web**!
 
-![logoCS](logos/cs.png)
-![logoJS](logos/js.png)
-![logoPY](logos/python.png)
-![logoHTML](logos/html5.png)
-![logoCSS](logos/css.png)
-![logoEX](logos/express.png)
-![logoPSQL](logos/postgresql.png)
-![logoMSQLWB](logos/workbench.jpg)
-![logoGIT](logos/git.png)
-![logoGITHUB](logos/github.png)
+[![logoCS](logos/cs.png)](https://dotnet.microsoft.com/pt-br/languages/csharp)
+[![logoJS](logos/js.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![logoPY](logos/python.png)](https://www.python.org/about/gettingstarted/)
+[![logoHTML](logos/html5.png)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![logoCSS](logos/css.png)](https://dotnet.microsoft.com/pt-br/languages/csharp)
+[![logoEX](logos/express.png)](https://dotnet.microsoft.com/pt-br/languages/csharp)
+[![logoPSQL](logos/postgresql.png)](https://dotnet.microsoft.com/pt-br/languages/csharp)
+[![logoMSQLWB](logos/workbench.jpg)](https://dotnet.microsoft.com/pt-br/languages/csharp)
+[![logoGIT](logos/git.png)](https://dotnet.microsoft.com/pt-br/languages/csharp)
+[![logoGITHUB](logos/github.png)](https://dotnet.microsoft.com/pt-br/languages/csharp)
