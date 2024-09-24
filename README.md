@@ -10,6 +10,6 @@ Possuo outra qualificação, Técnico em Informática, realizado no **Senac Mina
 - **Ferramentas:** MySQL Workbench
 - **Versionamento:** Git e Github
 
-De tudo um pouco, desejo colocar em prática e aperfeiçoar o uso destas ferramentas!
+De tudo um pouco, desejo colocar em prática e aperfeiçoar o uso destas ferramentas no desenvolvimento web!
 
 ![logoJS](logos/js.png)
