@@ -16,13 +16,13 @@ Possuo conhecimento básico das seguintes ferramentas:
 
 Desejo colocar em prática e aperfeiçoar o uso destas no **Desenvolvimento Web**!
 
-[![logoCS](logos/cs.png)](https://dotnet.microsoft.com/pt-br/languages/csharp)
-[![logoJS](logos/js.png)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![logoPY](logos/python.png)](https://www.python.org/about/gettingstarted/)
-[![logoHTML](logos/html5.png)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![logoCSS](logos/css.png)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![logoEX](logos/express.png)](https://expressjs.com/)
-[![logoPSQL](logos/postgresql.png)](https://www.postgresql.org/)
-[![logoMSQLWB](logos/workbench.jpg)](https://www.mysql.com/products/workbench/)
-[![logoGIT](logos/git.png)](https://git-scm.com/)
-[![logoGITHUB](logos/github.png)](https://dotnet.microsoft.com/pt-br/languages/csharp)
+<a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank"><img src="logos/cs.png" alt="logoCS"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="logos/js.png" alt="logoJS"></a>
+<a href="https://www.python.org/about/gettingstarted/" target="_blank"><img src="logos/python.png" alt="logoPY"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="logos/html5.png" alt="logoHTML"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="logos/css.png" alt="logoCSS"></a>
+<a href="https://expressjs.com/" target="_blank"><img src="logos/express.png" alt="logoEX"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="logos/postgresql.png" alt="logoPSQL"></a>
+<a href="https://www.mysql.com/products/workbench/" target="_blank"><img src="logos/workbench.jpg" alt="logoMSQLWB"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="logos/git.png" alt="logoGIT"></a>
+<a href="https://github.com/home" target="_blank"><img src="logos/github.png" alt="logoGITHUB"></a>
